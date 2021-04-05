@@ -17,7 +17,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 .matrix { text-align: center;
 }
 }
@@ -135,14 +135,14 @@ li >    input[type="text"] {
 
 /* Edit Task */
 ul li input[type=text] {
-  display:none
+  display: none
 }
 
 .edMode input[type=text] {
-  display:inline-block;
+  display: inline-block;
   width:224px
 }
 
 .edMode label {
-  display:none;
+  display: none;
 }
